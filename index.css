@@ -1,0 +1,7 @@
+.active{
+    color:red;
+}
+.test{
+    display: flex;
+    column-gap: 30px;
+}
